@@ -1,7 +1,7 @@
-uslci_mgmt
+U.S. Life Cycle Inventory Database Management System
 ==========
-This repository (repo) serves as the main landing page for the [*U.S. Life Cycle Inventory Database Management System*][uslci-ms] (USLCI-MS).
-The USLCI-MS is a system for managing the [U.S. Life Cycle Inventory Database][uslci] (USLCI).  The system is comprised of three GitHub repos and a [supporting wiki][wiki].  
+This repository (repo) serves as the main landing page for the U.S. Life Cycle Inventory Database Management System (USLCI-MS).
+The USLCI-MS is a system for managing the [U.S. Life Cycle Inventory Database][uslci] (USLCI).  The system is comprised of three repos and a [supporting wiki][wiki].  
 
 The three repos are:
 * [uslci_aip][aip]
