@@ -1,7 +1,7 @@
 U.S. Life Cycle Inventory Database Management System
 ==========
 This ReadMe file serves as the main landing page for the U.S. Life Cycle Inventory Database Management System (USLCI-MS).
-The USLCI-MS is a system for managing the [U.S. Life Cycle Inventory Database][uslci] (USLCI).  At a basic level, the system is comprised of four repos, a [supporting wiki][wiki], and this ReadMe file.
+The USLCI-MS is a system for managing the [U.S. Life Cycle Inventory Database][uslci] (USLCI).   At a basic level, the system is comprised of four repos, a [supporting wiki][wiki], and this ReadMe file.
 
 ![Simple USLCI-MS Architecture][simple]
 
@@ -22,5 +22,4 @@ This section contains the URLs for the linked text in this page. These URLs are 
 [review]: https://github.nrel.gov/acarpent/uslci_curation
 [simple]: https://github.nrel.gov/acarpent/uslci_mgmt/blob/master/images/arch_L01_simple.png
 [uslci]: https://uslci.lcacommons.gov/
-[uslci-ms]: https://github.nrel.gov/acarpent/uslci_mgmt
 [wiki]: https://github.nrel.gov/acarpent/uslci_mgmt/wiki
