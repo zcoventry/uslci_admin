@@ -4,7 +4,7 @@ Welcome to the Administration Repository (Admin Repo)!  This repo is part of the
 
 | [Wiki][wiki] | [Admin Repo][mgmt] | [AIP Repo][aip] | [Data Review Repo][review]  | [USLCI Version Repo][bad_link]
 |:---:|:---:|:---:|:---:|:--|
-| USLCI-MS documentation | Files related to the management and development of the USLCI-MS | Non-volatile storage of data submitted and/or published on the [USLCI][uslci] | Temporary storage for data under active review | Current and archived versions of the USLCI in a production-ready format |  
+| USLCI-MS documentation | Files supporting the management and development of the USLCI-MS | Non-volatile storage of data submitted and/or published on the [USLCI][uslci] | Temporary storage for data under active review | Current and archived versions of the [USLCI][uslci] in a production-ready format | 
 
 First time users are encouraged to read the [Quick Start Guide][qs_guide].  Also, detailed documentation of the USLCI-MS is available on the [Wiki][wiki].
 
