@@ -1,4 +1,4 @@
-USLCI-MS Administration Repository
+Administration Repository
 ==========
 Welcome to the Administration Repository (Admin Repo)!  This repo is part of the USLCI-Management system which is comprised of a [wiki][wiki] and four data repositories:
 
