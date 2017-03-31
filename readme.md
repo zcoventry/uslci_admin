@@ -6,7 +6,7 @@ Welcome to the Administration Repository (Admin Repo)!  This repo is part of the
 |:---:|:---:|:---:|:---:|:--|
 | USLCI-MS documentation | Files supporting the management and development of the USLCI-MS | Non-volatile storage of data submitted and/or published on the [USLCI][uslci] | Temporary storage for data under active review | Current and archived versions of the [USLCI][uslci] in a production-ready format | 
 
-First time users are encouraged to read the [Quick Start Guide][qs_guide].  Also, detailed documentation of the USLCI-MS is available on the [Wiki][wiki].
+First time users are encouraged to read the [Quick Start Guide][qs_guide].  Also, detailed documentation of the USLCI-MS is available on the [wiki][wiki].
 
 ## Links
 This section contains the URLs for the linked text in this page. These URLs are intentionally not rendered when this page is viewed as HTML.  To see the URLs, view this page as a text file or [Markdown][markdown] file.
