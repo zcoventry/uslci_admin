@@ -1,8 +1,8 @@
 Administration Repository
 ==========
-Welcome to the Administration Repository (Admin Repo)!  This repo is part of the [USLCI-Management system][wiki] which supports the management and development of the [U.S. Life Cycle Inventory Database][uslci] (USLCI).  First time users are encouraged to read the [Quick Start Guide][qs_guide].
+Welcome to the Administration Repository (Admin Repo)!  First time users are encouraged to read the **[Quick Start Guide][qs_guide]**.
 
-The Admin Repo is reserved for files relevant to the management and development of the USLCI-MS.  Files related to data published in the USLCI are excluded from this repo and, instead, should be placed in the [AIP Repo][aip].  For additional details on the file types accepted by this repo, please see the [USLCI-MS File Conventions Guide][file_conventions_guide].
+The Admin Repo is part of the [USLCI-Management system][wiki] which supports the management and development of the [U.S. Life Cycle Inventory Database][uslci] (USLCI).   This repo is reserved for files relevant to the management and development of the USLCI-MS.  Files related to data published in the USLCI are excluded from this repo and, instead, should be placed in the [AIP Repo][aip].  For additional details on the file types accepted by this repo, please see the [USLCI-MS File Conventions Guide][file_conventions_guide].
 
 ## Links
 This section contains the URLs for the linked text in this page. These URLs are intentionally not rendered when this page is viewed as HTML.  To see the URLs, view this page as a text file or [Markdown][markdown] file.
